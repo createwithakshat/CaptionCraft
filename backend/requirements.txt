@@ -1,0 +1,10 @@
+langchain
+chromadb
+whisperx
+faster-whisper
+sentence-transformers
+streamlit
+fastapi
+uvicorn
+ffmpeg-python
+torch
