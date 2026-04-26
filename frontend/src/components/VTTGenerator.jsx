@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import { Upload, FileAudio, Copy, Download, Sparkles, Loader2, CheckCircle, AlertCircle, Play, Pause, SkipBack, SkipForward, Video, Mic, FileText, Wand2 } from 'lucide-react';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://captioncraft-cal6.onrender.com';
 
 const VTTGenerator = () => {
   const [audioFile, setAudioFile] = useState(null);
