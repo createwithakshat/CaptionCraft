@@ -1,10 +1,7 @@
-langchain
-chromadb
-whisperx
-faster-whisper
-sentence-transformers
-streamlit
 fastapi
 uvicorn
-ffmpeg-python
+python-multipart
+whisperx
 torch
+pydub
+ffmpeg-python
