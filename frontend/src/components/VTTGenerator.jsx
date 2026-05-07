@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import { Upload, FileAudio, Copy, Download, Sparkles, Loader2, CheckCircle, AlertCircle, Play, Pause, SkipBack, SkipForward, Video, Mic, FileText, Wand2 } from 'lucide-react';
 
-const API_BASE_URL = 'https://captioncraft-cal6.onrender.com';
+const API_BASE_URL = 'https://createwithakshat--captioncraft-backend-fastapi-app.modal.run';
 
 const VTTGenerator = () => {
   const [audioFile, setAudioFile] = useState(null);
